@@ -2,6 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
     <p>change1</p>
+    <p>change2</p>
     <iframe :src="link" frameborder="0" style="padding: 0;width:100%;" height="500px"></iframe>
   </div>
 </template>
